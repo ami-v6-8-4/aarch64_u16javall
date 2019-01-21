@@ -6,7 +6,7 @@ jdk:
   - openjdk8
   - openjdk10
   - oraclejdk8
-
+ 
 runtime:
   nodePool: custom__aarch64__Ubuntu_16_04
 
